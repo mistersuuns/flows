@@ -3,9 +3,9 @@
 }*/
 
 .container-fluid {
+    height: 100vh;
     background: darkgrey;
-    
 }
-.borFlow2 {
-    
+#flowImg {
+    max-height: 90vh;
 }
