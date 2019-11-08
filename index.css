@@ -7,12 +7,20 @@ body {
     scroll-snap-points-y: repeat(100px);
     scroll-snap-type: y mandatory;
 }
+.container-fluid, .container, .row, .col {
+    margin:0;
+    padding: 0;
+}
 
 .container-fluid {
     scroll-snap-align: start;
     position: relative;
     height: 100vh;
     text-align: center;
+    }
+    .container {
+        margin:0;
+        padding:0;
     }
 
 img {
@@ -67,4 +75,26 @@ img {
 .vicebotDisp {
     background: linear-gradient(rgba(95, 95, 95, 1),
     rgba(75, 75, 75, 1));
+}
+
+
+.footer {
+    background-color: rgb(0, 0, 0);
+    opacity: .7;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+.icons {
+    font-size: 2em;
+    padding: .5em;
+    display: flex;
+    justify-content: center;
+}
+.fab.fa-linkedin:hover,
+.gmail:hover {
+    cursor: pointer;
+    transform: scale(1.2);
 }
