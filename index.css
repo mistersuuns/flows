@@ -27,8 +27,9 @@ img {
     border: 1px black;
 }
 
-.bor-1, .bor-2, .bor-3, .bor-4, .bor-5, .bor-6, .bor-7, .bor-8, .pinky-done, .pinky-1, .pinky-2, .pdv-dash, .pdv-home, .pdv-1, .pdv-2, .pdv-3, .pdv-4, .pdv-5, .settings, .sparko-1, .sparko-2, .sparko-3, .sparko-4, .sparko-5, .sparko-6, .sparko-7, .sparko-8, .sparko-9, .vicebot-1, .vicebot-2, .vicebot-3, .vicebot-4, .vicebot-5 {
+.bor-1, .bor-2, .bor-3, .bor-4, .bor-5, .bor-6, .bor-7, .bor-8, .ambass-1, .orb-tap, .ambass-exit, .flow-bizcard, .pinky-1, .pinky-done, .pdv-dash, .pdv-home, .pdv-1, .pdv-2, .pdv-3, .pdv-4, .pdv-5, .settings, .sparko-1, .sparko-2, .sparko-3, .sparko-4, .sparko-5, .sparko-6, .sparko-7, .sparko-8, .sparko-9, .vicebot-1, .vicebot-2, .vicebot-3, .vicebot-4, .vicebot-5 {
     padding-top: 5vh;
+    background-color: lightgrey;
 }
 .BoR1 {
     background: linear-gradient(rgba(255, 255, 255, 1),
@@ -108,7 +109,7 @@ img {
 /* LG LG LG LG LG LG LG LG LG LG LG LG*/
 /* LG LG LG LG LG LG LG LG LG LG LG LG*/
 @media (min-width: 1200px) {
-    .bor-1, .bor-2, .bor-3, .bor-4, .bor-5, .bor-6, .bor-7, .bor-8, .pinky-done, .pinky-1, .pinky-2, .pdv-dash, .pdv-home, .pdv-1, .pdv-2, .pdv-3, .pdv-4, .pdv-5, .settings, .sparko-1, .sparko-2, .sparko-3, .sparko-4, .sparko-5, .sparko-6, .sparko-7, .sparko-8, .sparko-9, .vicebot-1, .vicebot-2, .vicebot-3, .vicebot-4, .vicebot-5 {
+    .bor-1, .bor-2, .bor-3, .bor-4, .bor-5, .bor-6, .bor-7, .bor-8, .ambass-1, .orb-tap, .ambass-exit, .flow-bizcard, .pinky-1, .pinky-done, .pdv-dash, .pdv-home, .pdv-1, .pdv-2, .pdv-3, .pdv-4, .pdv-5, .settings, .sparko-1, .sparko-2, .sparko-3, .sparko-4, .sparko-5, .sparko-6, .sparko-7, .sparko-8, .sparko-9, .vicebot-1, .vicebot-2, .vicebot-3, .vicebot-4, .vicebot-5 {
         display:none;
     } 
 }
